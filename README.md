@@ -1,0 +1,91 @@
+
+```html
+<!DOCTYPE html>
+<html lang=”es”>
+<head>
+    <meta charset=”UTF-8”>
+    <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
+    <title>Página de Estudio de Matemáticas</title>
+    <link rel=”stylesheet” href=”styles.css”>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a la Página de Estudio de Matemáticas</h1>
+        <nav>
+            <ul>
+                <li><a href=”#introduccion”>Introducción</a></li>
+                <li><a href=”#calculo-diferencial”>Cálculo Diferencial</a></li>
+                <li><a href=”#limites”>Límites</a></li>
+                <li><a href=”#derivadas”>La Derivada</a></li>
+                <li><a href=”#aplicaciones-derivada”>Aplicaciones de la Derivada</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id=”introduccion”>
+        <h2>Introducción</h2>
+        <p>Bienvenido a tu recurso de estudio sobre cálculo y matemáticas. Aquí exploraremos conceptos clave que te ayudarán a comprender mejor la materia.</p>
+    </section>
+
+    <section id=”calculo-diferencial”>
+        <h2>Cálculo Diferencial – Hijo de Gigantes</h2>
+        <h3>Gráficas de Funciones</h3>
+        <p>Las gráficas de funciones nos permiten visualizar el comportamiento de las funciones matemáticas.</p>
+        
+        <h3>Entrenamiento Aritmético</h3>
+        <p>Practica operaciones básicas y mejora tu agilidad matemática.</p>
+        
+        <h3>Entrenamiento Algebraico</h3>
+        <p>Refuerza tus conocimientos en álgebra a través de ejercicios interactivos.</p>
+        
+        <h3>Elementos de Estudio en Funciones</h3>
+        <p>Explora los conceptos fundamentales de las funciones matemáticas.</p>
+    </section>
+
+    <section id=”limites”>
+        <h2>Límites</h2>
+        <h3>Límites en Humanos y Límites Matemáticos</h3>
+        <p>Un límite describe el comportamiento de una función a medida que se aproxima a un valor específico.</p>
+        
+        <h3>El Concepto de Límite</h3>
+        <p>Los límites son fundamentales en el cálculo y nos ayudan a entender la continuidad y la derivación.</p>
+        
+        <h3>Límites de una Función</h3>
+        <p>Investigamos cómo se comporta una función a medida que se aproxima a un punto determinado.</p>
+        
+        <h3>Límites Indeterminados e Infinitos</h3>
+        <p>Los límites pueden ser indeterminados o infinitos dependiendo del comportamiento de la función.</p>
+        
+        <h3>Continuidad de una Función</h3>
+        <p>Una función es continua si no presenta saltos o interrupciones en su gráfico.</p>
+    </section>
+
+    <section id=”derivadas”>
+        <h2>La Derivada</h2>
+        <h3>Tasa de Cambio Promedio e Instantánea</h3>
+        <p>La derivada nos permite calcular la tasa de cambio de una función en un punto específico.</p>
+        
+        <h3>Interpretación Geométrica de la Derivada</h3>
+        <p>Visualiza la derivada como la pendiente de la tangente a la gráfica de la función.</p>
+        
+        <h3>Reglas de Derivación</h3>
+        <p>Aprende las reglas y fórmulas necesarias para derivar funciones de manera efectiva.</p>
+    </section>
+
+    <section id=”aplicaciones-derivada”>
+        <h2>Aplicaciones de la Derivada</h2>
+        <h3>Cálculo de Máximos y Mínimos Relativos</h3>
+        <p>Utiliza la primera derivada para encontrar los puntos críticos de una función.</p>
+        
+        <h3>Concavidad y Criterio de Segunda Derivada</h3>
+        <p>Determina la concavidad de una función y los puntos de inflexión.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Página de Estudio de Matemáticas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+```
+
+
